@@ -3,6 +3,8 @@
 
 ### On OS X Instructions
 
+[![Tutorial](http://img.youtube.com/vi/a-ae-9m1sNE/0.jpg)](https://youtu.be/a-ae-9m1sNE)
+
 Install dependencies
 ```
 brew install imagemagick optipng
