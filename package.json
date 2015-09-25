@@ -1,0 +1,11 @@
+{
+  "name": "emojione_diversity",
+  "version": "1.0.0",
+  "description": "A simple script to replace hex values.",
+  "main": "svgs.js",
+  "author": "Rodrigo Polo <rodrigo.polo@gmail.com> (http://rodrigopolo.com)",
+  "license": "MIT",
+  "dependencies": {
+    "replacestream": "4.0.*"
+  }
+}
