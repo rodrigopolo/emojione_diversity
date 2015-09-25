@@ -11,6 +11,6 @@ for i in *.png; do optipng -o7 "$i" && advpng -z -4 "$i" && advdef -z -4 "$i"; d
 echo Moving PNGs
 mv *.png ../../assets/png/
 echo Moving SVGs
-mv *.svg ../../assets/png/
+mv *.svg ../../assets/svg/
 echo All done!
 rm -rf tmp
