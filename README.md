@@ -13,7 +13,7 @@ brew install imagemagick optipng
 Download the lastest Emoji One ZIP and unzip it
 
 ```
-curl -OL https://github.com/Ranks/emojione/archive/master.zip
+curl -OLJ https://github.com/Ranks/emojione/archive/master.zip
 unzip master.zip
 ```
 
