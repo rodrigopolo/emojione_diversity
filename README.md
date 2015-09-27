@@ -14,7 +14,7 @@ Download the lastest Emoji One ZIP and unzip it
 
 ```
 curl -OLJ https://github.com/Ranks/emojione/archive/master.zip
-unzip master.zip
+unzip emojione-master.zip
 ```
 
 Go to the `emojione-master` dir and clone the diversify script
